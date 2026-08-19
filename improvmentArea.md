@@ -20,6 +20,12 @@ battery status
 GPS directions
 alerts
 camera feed
+[
+
+    0.96" OLED module: https://www.lcdwiki.com/0.96inch\_SPI\_OLED\_Module
+    1.51" transparent OLED: https://www.waveshare.com/1.51inch-transparent-oled.htm
+    0.96" OLED display (Waveshare product listing): https://grobotronics.com/robotics/lcd-display/oled-display/
+]
 hazard warnings
 
 Main challenges:
@@ -30,3 +36,4 @@ battery life
 heat
 eye safety and comfort
 making text readable while moving
+
